@@ -1,6 +1,6 @@
 ## Aplicacion de comandos
 
-recuerden instalar los paqutes de node
+recuerden instalar los paquetes de node
 
 ```
 npm install
